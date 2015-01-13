@@ -12,16 +12,16 @@
 #include "opencv2/highgui/highgui.hpp"
 #include <opencv2/imgproc/imgproc.hpp>
 
-#define SENTIO_MODEL_PROTO "C:/Users/eren/Dropbox/SENTIO/cifar_convnet_leveldb_deploy.prototxt"
-#define SENTIO_MODEL_BIN "C:/Users/eren/Dropbox/SENTIO/convnet_leveldb_disturb_data_iter_20000.caffemodel"
-#define SENTIO_EXP_IMG "C:/Users/eren/Dropbox/SENTIO/player_images/182.jpg"
+#define SENTIO_MODEL_PROTO "Model Desc Path"
+#define SENTIO_MODEL_BIN "model/binary/file/path"
+#define SENTIO_EXP_IMG "target/image/path"
 
 using namespace caffe;
 using namespace std;
 
 int predict() {
-	const int img_height = 40;
-	const int img_width = 20;
+	const int img_height = 40; // define accordingly 
+	const int img_width = 20;  // define accordingly
 
 	// Set GPU
 	Caffe::set_mode(Caffe::CPU);
