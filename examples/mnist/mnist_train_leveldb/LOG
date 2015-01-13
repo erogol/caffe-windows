@@ -1,0 +1,43 @@
+2015/01/12-12:19:56.675 738 Recovering log #3
+2015/01/12-12:19:56.688 738 Level-0 table #5: started
+2015/01/12-12:19:56.705 738 Level-0 table #5: 4080862 bytes OK
+2015/01/12-12:19:56.718 738 Level-0 table #6: started
+2015/01/12-12:19:56.734 738 Level-0 table #6: 4080862 bytes OK
+2015/01/12-12:19:56.747 738 Level-0 table #7: started
+2015/01/12-12:19:56.763 738 Level-0 table #7: 4080862 bytes OK
+2015/01/12-12:19:56.775 738 Level-0 table #8: started
+2015/01/12-12:19:56.792 738 Level-0 table #8: 4080862 bytes OK
+2015/01/12-12:19:56.805 738 Level-0 table #9: started
+2015/01/12-12:19:56.821 738 Level-0 table #9: 4080862 bytes OK
+2015/01/12-12:19:56.834 738 Level-0 table #10: started
+2015/01/12-12:19:56.850 738 Level-0 table #10: 4080862 bytes OK
+2015/01/12-12:19:56.863 738 Level-0 table #11: started
+2015/01/12-12:19:56.879 738 Level-0 table #11: 4080862 bytes OK
+2015/01/12-12:19:56.892 738 Level-0 table #12: started
+2015/01/12-12:19:56.908 738 Level-0 table #12: 4080862 bytes OK
+2015/01/12-12:19:56.921 738 Level-0 table #13: started
+2015/01/12-12:19:56.937 738 Level-0 table #13: 4080862 bytes OK
+2015/01/12-12:19:56.950 738 Level-0 table #14: started
+2015/01/12-12:19:56.966 738 Level-0 table #14: 4080862 bytes OK
+2015/01/12-12:19:56.978 738 Level-0 table #15: started
+2015/01/12-12:19:56.994 738 Level-0 table #15: 4080862 bytes OK
+2015/01/12-12:19:57.009 738 Level-0 table #16: started
+2015/01/12-12:19:57.025 738 Level-0 table #16: 4080862 bytes OK
+2015/01/12-12:19:57.029 738 Delete type=0 #3
+2015/01/12-12:19:57.032 738 Delete type=3 #2
+2015/01/12-12:19:57.033 1df8 Moved #5 to level-1 4080862 bytes OK: files[ 11 1 0 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #6 to level-1 4080862 bytes OK: files[ 10 2 0 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #7 to level-1 4080862 bytes OK: files[ 9 3 0 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #8 to level-1 4080862 bytes OK: files[ 8 4 0 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #9 to level-1 4080862 bytes OK: files[ 7 5 0 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #5 to level-2 4080862 bytes OK: files[ 7 4 1 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #10 to level-1 4080862 bytes OK: files[ 6 5 1 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #6 to level-2 4080862 bytes OK: files[ 6 4 2 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #7 to level-2 4080862 bytes OK: files[ 6 3 3 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #11 to level-1 4080862 bytes OK: files[ 5 4 3 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #8 to level-2 4080862 bytes OK: files[ 5 3 4 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #12 to level-1 4080862 bytes OK: files[ 4 4 4 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #9 to level-2 4080862 bytes OK: files[ 4 3 5 0 0 0 0 ]
+2015/01/12-12:19:57.033 1df8 Moved #10 to level-2 4080862 bytes OK: files[ 4 2 6 0 0 0 0 ]
+2015/01/12-12:19:57.034 1df8 Moved #13 to level-1 4080862 bytes OK: files[ 3 3 6 0 0 0 0 ]
+2015/01/12-12:19:57.034 1df8 Moved #11 to level-2 4080862 bytes OK: files[ 3 2 7 0 0 0 0 ]
